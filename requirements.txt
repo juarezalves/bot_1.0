@@ -1,3 +1,9 @@
-Flask
-ChatBot
-ListTrainer
+ChatterBot==0.8.7
+chatterbot-corpus==1.1.2
+Flask==1.0.2
+Flask-Cors==3.0.4
+Flask-WTF==0.14.2
+gunicorn==19.9.0
+requests==2.18.4
+requests-oauthlib==1.0.0
+requests-toolbelt==0.8.0
