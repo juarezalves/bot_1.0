@@ -1,0 +1,6 @@
+Flask
+ChatBot
+ListTrainer
+request
+requests
+os

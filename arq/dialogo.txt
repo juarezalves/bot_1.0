@@ -1,8 +1,8 @@
-Bom dia
-Oi, Bom dia! Seja bemvindo.
-bom dia
-Olá, Bom dia! Seja bemvindo.
-Boa tarde
+Bom dia,
+Bom dia! Seja bemvindo.
+bom dia,
+Olá Bom dia! Seja bemvindo.
+Boa tarde,
 Boa tarde! Seja bemvindo.
 boa tarde
 Boa tarde! Seja bemvindo.
