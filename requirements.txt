@@ -2,3 +2,4 @@ ChatterBot==0.8.7
 chatterbot-corpus==1.1.2
 requests
 request
+Flask
