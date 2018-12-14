@@ -1,7 +1,7 @@
 Bom dia
-Bom dia! Seja bemvindo.
+Oi, Bom dia! Seja bemvindo.
 bom dia
-Bom dia! Seja bemvindo.
+Olá, Bom dia! Seja bemvindo.
 Boa tarde
 Boa tarde! Seja bemvindo.
 boa tarde
@@ -9,7 +9,7 @@ Boa tarde! Seja bemvindo.
 Boa noite
 Boa noite! Seja bemvindo.
 Olá
-Oi, o que posso fazer or você hoje?
+Oi, o que posso fazer por você hoje?
 olá
 oi
 Oi
