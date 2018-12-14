@@ -1,13 +1,5 @@
-absl-py
-alabaster
-anaconda-client
-anaconda-navigator
-anaconda-project
 ChatterBot
 chatterbot-corpus
-conda
-conda-build
-conda-verify
 Flask
 Flask-Cors
 Flask-WTF
