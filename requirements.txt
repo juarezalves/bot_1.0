@@ -5,7 +5,6 @@ Flask-Cors
 Flask-WTF
 gunicorn
 Jinja2
-jsonschem
 requests
 requests-oauthlib
 requests-toolbelt
