@@ -1,7 +1,10 @@
 ChatterBot
 chatterbot-corpus
 Flask
+Flask-Cors
 Flask-WTF
 gunicorn
+Jinja2
 requests
-requet
+requests-oauthlib
+requests-toolbelt
