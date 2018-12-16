@@ -12,6 +12,7 @@ chatterbot = "*"
 Anaconda = "*"
 gunicorn = "*"
 requests = "*"
+codecs = "*"
 
 [requires]
 
