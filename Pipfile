@@ -8,6 +8,7 @@ verify_ssl = true
 
 Flask = "*"
 ChatBot = "*"
+chatterbot = "*"
 Anaconda = "*"
 gunicorn = "*"
 requests = "*"
