@@ -37,9 +37,9 @@ def is_user_message(message): #"""Check if the message is a message from the use
 def listen(): #"""This is the main function flask uses to listen at the `/webhook` endpoint"""
     bot = ChatBot('ada01')
     bot.set_trainer(ListTrainer)
-    for arq in os.listdir('arq'):
-        corpus = open('arq/' + arq, 'r').readlines()
-        bot.train(corpus)
+  #  for arq in os.listdir('arq'):
+   #     corpus = open('arq/' + arq, 'r').readlines()
+    #    bot.train(corpus)
 
     if request.method == 'GET':
         return verify_webhook(request)
