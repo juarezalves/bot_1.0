@@ -10,6 +10,8 @@ Flask = "*"
 ChatBot = "*"
 Anaconda = "*"
 gunicorn = "*"
+requests = "*"
+os = "*"
 
 [requires]
 
